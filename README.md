@@ -1,5 +1,4 @@
 # Aboutme
-Read this to know more about me
 👋 Hi, I’m Sai Poojitha – DevOps Engineer | Cloud & Kubernetes Enthusiast | Salesforce Professional
 🚀 DevOps Professional with 3 Years of Cloud & Kubernetes Experience | 2 Years of Salesforce Expertise
 Based in Halifax, Nova Scotia, Canada, I bring a well-rounded background in both DevOps and Salesforce environments. Over the past 3 years, I’ve built and managed cloud infrastructure using AWS, Azure, and Terraform to optimize software delivery, scale applications, and ensure reliability. I also have 2 years of experience working with Salesforce, helping organizations automate processes and integrate Salesforce with cloud infrastructure for improved productivity and performance.
