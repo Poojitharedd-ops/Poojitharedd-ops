@@ -1,13 +1,7 @@
 # 👋 About Me – Sai Poojitha Durgempoodi  
 
-🚀 **DevOps Engineer | Cloud & Kubernetes Enthusiast | Salesforce Professional**  
+🚀Cloud & Kubernetes Enthusiast | Salesforce Professional**  
 
-I'm a **DevOps Professional** with **3 Years of Cloud & Kubernetes Experience** and **2 Years of Salesforce Expertise**.  
-Currently based in **Halifax, Nova Scotia, Canada**, I bring a well-rounded background in both **DevOps and Salesforce** environments.  
-
-Over the past 3 years, I’ve built and managed **cloud infrastructure** using **AWS and Terraform** to optimize software delivery, scale applications, and ensure reliability. I also have 2 years of experience working with **Salesforce**, helping organizations automate processes and integrate Salesforce with cloud infrastructure for improved productivity and performance.  
-
----
 
 ## 💻 Skills and Expertise  
 
